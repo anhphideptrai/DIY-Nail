@@ -24,7 +24,7 @@
                     </view>
                     <connections>
                         <outlet property="view" destination="8bC-Xf-vdC" id="NeB-3e-lfv"/>
-                        <segue destination="mFz-d5-Jj7" kind="show" id="Zd3-GE-K5u"/>
+                        <segue destination="mFz-d5-Jj7" kind="show" identifier="ShowHome" id="47Y-e6-uws"/>
                     </connections>
                 </viewController>
             </objects>
